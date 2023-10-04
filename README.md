@@ -2,12 +2,12 @@
 
 <!-- vim: set spell: -->
 
-## Lecture 1
+<!-- Lecture 1 -->
 
 Current market supply is low because many homeowners purchased homes at a very
 low interest rate, and are reluctant to sell.
 
-### Basic Legal Concepts
+## Basic Legal Concepts
 
 - **Real Estate:** Land and all things permanently attached to it.
 - **Real Property:** Ownership rights associated with real estate.
@@ -42,3 +42,48 @@ low interest rate, and are reluctant to sell.
   materials providers to secure payment for their work on real estate and, in
   California, may be recorded up to 90 days after the work is completed or the
   materials are supplied.
+
+<!-- Lecture 2 -->
+
+## Notes and Mortgages
+
+- **Promissory Note:** Documents a loan between a borrower and a lender. Must
+  include the parties, loan amount, interest rate, and maturity date. Usually
+  includes clauses relating to amortization, assumability or "due on sale",
+  recourse or non-recourse, repayment or lockout, assignment, default, and
+  acceleration.
+- **Mortgage:** A two-party security interest in real property to secure the
+  repayment of a real estate loan that is given by a borrower / mortgagor to a
+  lender / mortgagee.
+- **Deed of Trust:** A three-party security interest in real property that is
+  given by a borrower / trustor to an independent trustee to secure the
+  repayment of a real estate loan for the benefit of a lender / beneficiary.
+  Used in California and mos other states where it is available, because it is
+  preferred over a two-party mortgage.
+- **Senior vs. Junior Mortgage:** Determined by state recording statues that
+  determine lender priority (unless the prior recorded mortgage contains a
+  subordination clause).
+- **Purchase money loan:** A loan made to a borrower to purchase real estate.
+- **Construction loan:** A loan for the construction of a building or
+  improvements. Loan draws are made against a maximum loan amount, are secured
+  by a mortgage or deed of trust against the real property, usually with
+  recourse to the developer.
+  - _**Avoid lockout**_, always go for prepayment penalty (ideally no lockout
+    and no prepayment penalty).
+- **Default:** Failure to perform any of the terms or conditions of the loan or
+  mortgage. The most common mortgage default is the failure to pay interest and
+  principle when due. Default can lead to acceleration of the loan and
+  foreclosure of the property.
+- **Foreclosure:** With a deed of trust, can be judicial (in court) or
+  non-judicial (out of court) and involves a lender ultimately taking title to
+  real property or forcing sale of the property to satisfy the unpaid mortgage
+  balance. All junior mortgages are extinguished when a senior mortgage lender
+  forecloses on a property, but the debt secured by those junior mortgages is
+  generally unaffected by the foreclosure.
+- **Deficiency Judgement:** Any loan balance remaining after a judicial
+  foreclosure sale can become a personal judgement against the borrower if the
+  loan is recourse. California law generally protects homeowners from a
+  deficiency judgement.
+- **Workouts and Extension Agreements:** Are usually preferred by lenders over
+  foreclosure, and involve negotiations with the borrower to extend the maturity
+  date
