@@ -158,3 +158,40 @@ low interest rate, and are reluctant to sell.
   - Expected investment **return** relative to the perceived **risk**.
 - **Amortization:** The process of **repaying** the **principal balance** of a
   **loan** over time.
+- **Balloon Payment** <!-- Lecture 4 -->
+  - The **principal balance** of the **loan** due on the **maturity date**.
+- **Pay Rate vs. Accrual Rate**
+  - Is the actual monthly mortgage **payment** that is made by a **borrower** at
+    least equal to the **accrued interest** amount then due on the **loan**?
+- **Constant Payment Mortgage**
+  - When each monthly **payment** is the same, the **loan** will be **fully
+    amortizing**, **partially amortizing**, **interest only**, or **negative
+    amortizing**.
+- **Constant Amortization Mortgage**
+  - When each **payment** includes a fixed amount of **principal** repayment,
+    with the monthly **payment** and **interest** amounts declining.
+- **Reverse Annuity Mortgage**
+  - The **lender** sends fixed monthly checks to the **borrower** who must pay
+    the accumulated **principal** and accrued **interest** on the **maturity
+    date**.
+- **Loan Fees and Costs**
+  - **Origination fees** (for loan underwriting and processing), **appraisal**
+    and **credit report**. **Loan fees** and **points** increase the **lender's
+    yield**.
+- **Annual Percentage Rate (APR)**
+  - Provides **disclosure** regarding the effects of **loan fees**, **points**,
+    and **costs** on **residential loans** (assumes the **loan** is held to
+    **maturity**).
+- **Truth-in-Lending Act**
+  - **Federal Reserve Regulation Z** requires **lenders** to include in **APR**
+    calculations all **loan fees**, **points**, and **costs**, but not any
+    **prepayment penalties**.
+- **Prepayment Penalties**
+  - Increase the **effective yield** to the **lender**, are subject to
+    **negotiation**, and are not reflected in the **APR** of a loan. If a
+    **prepayment penalty** is paid, the **effective yield** to the **lender**
+    will be higher if the **loan** is repaid earlier.
+- **Effective Annual Interest Rate**
+  - **Calculation** that considers all **loan fees**, **points**, and **costs**
+    and any **prepayment penalties** actually paid, and is therefore affected by
+    the amount of **time** the **loan** is held until **repayment**.
