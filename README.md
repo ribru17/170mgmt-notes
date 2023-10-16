@@ -195,3 +195,72 @@ low interest rate, and are reluctant to sell.
   - **Calculation** that considers all **loan fees**, **points**, and **costs**
     and any **prepayment penalties** actually paid, and is therefore affected by
     the amount of **time** the **loan** is held until **repayment**.
+
+<!-- Lecture 4 -->
+
+## Adjustable / Floating Rate Mortgage Loans
+
+- **Interest Rates Changes**
+  - **Indexed** to other market **interest rates** (plus a **margin**).
+- **Index**
+  - **SOFT** (Secured Overnight Financing Rate) is replacing **LIBOR** (London
+    Interbank Offered Rate), **US Treasuries**, **COFI** (eleventh district Cost
+    of Funds Index), **Prime**. The **index** can be overnight, six months, one
+    year, or another interest rate series.
+- **Margin**
+  - **Lender's profit margin** or spread (fixed for the loan term) over the
+    index.
+- **Composite Rate**
+  - The **index + margin** is the **composite interest rate** on the **loan**.
+- **Reset Dates**
+  - When the **interest rate changes** (usually every six months or one year).
+- **Caps and Floors**
+  - **Caps** are the **maximum** and **floors** are the **minimum** allowed for
+    **periodic** and/or **lifetime** adjustments of the **interest rate** or
+    **loan payment** amount.
+- **Loan Terms**
+  - Are generally the same terms as with the **fixed rate loans**, other than
+    the interest rate changes, and include **assumable** or "**due on sale**",
+    **recourse** or **non-recourse,** **prepayment** or **lockout,**
+    **assignment,** **default,** and **acceleration.**
+- **Loan Fees and Costs**
+  - As with **fixed rate loans**, **origination fees**, **points**, and
+    **costs** may be charged to the **borrower** to increase the **effective
+    yield** to the **lender**.
+- **Interest Only or Amortizing**
+  - As with **fixed rate loans**, **ARMs** are usually **fully amortizing**, but
+    can also be written as **interest only** or **partially amortizing**.
+- **Negative Amortization**
+  - If the **loan payment** required is less than the amount of **accrued
+    interest** then due on the **loan** because of a **payment cap**, there will
+    be **negative amortization**. **Interest rate caps** do not cause **negative
+    amortization**.
+- **Teaser Rate**
+  - Initial **interest rate** on the **loan**, often far below the **composite
+    rate**.
+- **Payment Shock**
+  - When the **interest rate** fully adjusts to the current **composite rate**,
+    the new **loan payment** amount is often substantially higher than the
+    **teaser rate**.
+- **Interest Rate Risk**
+  - Because **ARM interest rates** adjust **periodically**, **interest rate
+    risk** is higher for the **borrower** and lower for the **lender**. The
+    shorter the time interval between **reset dates**, the higher the **risk**
+    for the **borrower** and lower for the **lender**.
+- **Default Risk**
+  - Because the **interest rate** adjusts **periodically**, the potential for
+    future **rate** increases elevates the **risk** of a **default** by the
+    **borrower** leading to **foreclosure**.
+- **Hybrid ARMs**
+  - **3/1**, **5/1**, **7/1**, or **10/1** are **fixed rate loans** for the
+    first 3, 5, 7, or 10 years, then become **adjustable rate loans** with
+    annual **interest rate reset dates**.
+- **Conversion Option**
+  - The right of the **borrower** to convert the **loan** from an **ARM** to a
+    **fixed rate loan** at a specified future date, usually with a **fee** paid
+    to the **lender**.
+
+## Mortgages: Additional Concepts
+
+- **Loan-to-Value Ratio (LTV)**
+  - **Mortgage debt** divided by **property value** (or **price**).
