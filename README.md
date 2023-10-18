@@ -78,7 +78,7 @@ low interest rate, and are reluctant to sell.
 - **Default**
   - Failure to perform any of the terms or conditions of the **loan** or
     **mortgage**. The most common **mortgage default** is the failure to pay
-    **interest** and **principle** when due. **Default** can lead to
+    **interest** and **principal** when due. **Default** can lead to
     **acceleration** of the **loan** and **foreclosure** of the **property**.
 - **Foreclosure**
   - With a deed of trust, can be **judicial** (in court) or **non-judicial**
@@ -196,7 +196,7 @@ low interest rate, and are reluctant to sell.
     and any **prepayment penalties** actually paid, and is therefore affected by
     the amount of **time** the **loan** is held until **repayment**.
 
-<!-- Lecture 4 -->
+<!-- Lecture 5 -->
 
 ## Adjustable / Floating Rate Mortgage Loans
 
@@ -264,3 +264,89 @@ low interest rate, and are reluctant to sell.
 
 - **Loan-to-Value Ratio (LTV)**
   - **Mortgage debt** divided by **property value** (or **price**).
+- **Market Value of a Loan**
+  - The **present value** of all expected future **loan payments** (i.e. all
+    expected future payments of **principal** and **interest**).
+- **Incremental Borrowing Cost**
+  - The **marginal cost** of the additional amount **borrowed**, taking into
+    consideration the **interest rate** and other **loan fees**, **points**, and
+    **costs**.
+- **Home Equity Line of Credit**
+  - A **Home Equity Line of Credit** (`HELOC`) can be secured by a **first**,
+    **second**, or more **junior mortgage** and is typically a revolving **line
+    of credit**.
+- **Buydown Loans**
+  - When a **seller** pays a **fee** to a third-party **lender** to buy down the
+    **interest rate** on a **purchase money loan** to induce the
+    **buyer/borrower** to acquire the **real property**. The amount paid to buy
+    down the **interest rate** will be much less than the **present value** of
+    the reduced **loan payments** from the lower **interest rate**.
+- **Below Market Seller Financing**
+  - When the pricing of the **seller financing** (**interest rate** and **loan
+    fees**, **points**, and **costs**) is less than the **market** pricing of
+    available **financing**, often to improve the **sale price** of a
+    **property** by a motivated **seller**.
+- **Wraparound Loans**
+  - Might be used by a **seller** in a slow housing market and when the
+    **buyer** has poor credit to help sell a **property**. The **first
+    mortgage** must stay in place, so it does not work if there is a **"due on
+    sale"** clause in the **loan agreement**.
+
+<!-- Lecture 6 -->
+
+## Income Producing Properties - Leases
+
+- **Commercial Properties**
+  - Office, retail, apartment, industrial, hotel, mixed-use, ...
+- **Supply and Demand Analysis**
+  - Important for the **valuation** of **properties** and the projection of
+    future **rent** and **occupancy** levels. **Global**, **national**,
+    **regional**, and **local** factors affect the **value** of **properties**
+    and **rent levels** for **commercial** space.
+- **Location**
+  - The most important factor in **real estate** because it is **location**
+    specific.
+- **Occupancy / Vacancy**
+  - **Occupancy = 100% - Vacancy**. Driven by many factors, including **supply
+    and demand**, **location**, **quality** (age, design, construction, etc.).
+- **Lease Terms**
+  - The parties (landlord/tenant or lessor/lessee), premises, term, base rent,
+    CPI increases, or percentage rent, security deposit and/or guarantors,
+    allowable uses, insurance, repairs and maintenance, damage or destruction,
+    property taxes and other expenses, assignment and subletting, defaults and
+    remedies, subordination, attornment and non-disturbance, signage, right of
+    first refusal or expansion option on adjacent space, notices, governing law.
+- **Rental Income**
+  - **Flat base rent**, **step-up rent**, **CPI** or **indexed rent** with
+    **caps and floors**, **percentage rent** with **overage rent** above a sales
+    amount **breakpoint**.
+- **Concessions**
+  - **Free rent**, reduced **rent**, **tenant improvement** allowance (**TI**).
+- **Property Expenses**
+  - Gross leases (tenant pays no expenses), modified gross leases (e.g.
+    electricity), triple net leases (tenant pays all operating expenses
+    including property taxes, insurance, repairs and maintenance, and
+    utilities).
+- **Expense Stop**
+  - **Property expenses** per **rentable square foot** up to the **expense
+    stop** will be paid by the **landlord** with **expenses** over that amount
+    paid by the **tenant**.
+- **Rentable vs. Usable Square Feet**
+  - **Rentable square footage** is **usable square footage** plus the
+    **tenant's** pro rata share of **building common areas** (including public
+    areas, shared hallways, shared restrooms, public stairwells, elevator
+    lobbies).
+- **Load Factor**
+  - **Rentable area** divided by **usable area** (a lower ratio is more
+    efficient).
+- **Parking**
+  - Specific **parking spaces** can be assigned to a **tenant** or per thousand
+    square feet of rented space. **Parking charges** can be added to the
+    **rent** or included.
+- **Office Leases**
+  - Anchor tenants, signage, parking, expansion option, purchase option or right
+    of first refusal, overloading, gross or net or expense stops.
+- **Retail Leases**
+  - **Anchor tenants**, **signage**, **parking**, **co-tenancy** clause,
+    **exclusivity**, **radius** clause, **termination** or **kick-out** rights,
+    **operating times**, and **CAM** charges.
