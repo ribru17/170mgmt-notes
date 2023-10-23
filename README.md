@@ -350,3 +350,36 @@ low interest rate, and are reluctant to sell.
   - **Anchor tenants**, **signage**, **parking**, **co-tenancy** clause,
     **exclusivity**, **radius** clause, **termination** or **kick-out** rights,
     **operating times**, and **CAM** charges.
+
+<!-- Lecture 7 -->
+
+**NOTE:** Borrowers always want loans to be non-recourse.
+
+## Valuation of Income Properties/Appraisal
+
+- **Market Value**
+  - The **price** at which a willing **buyer** and a willing **seller**, each
+    without undue pressure, would **buy** and **sell** a particular
+    **property**, as of a particular **date**.
+- **Appraised Value**
+  - An estimate or **opinion** of **property value**, for a particular
+    **purpose** as of a particular **date**, by a particular **appraiser**. The
+    three primary appraisal methods are: **sales comparison**, **capitalization
+    of income**, and **replacement cost**. Each of the three **appraisal
+    methods** should, in theory, produce an similar **valuation**.
+- **Sales Comparison (or Comparable Sales)**
+  - Compares recent **sales** of highly **comparable properties** that are
+    similar in **location**, **size**, **age**, **construction quality**, and
+    other factors. This is generally the only method used for **residential
+    properties**, and one of the three methods used to appraise **commercial
+    properties**.
+- **Capitalization of Income**
+  - **Gross rent multiplier**, **capitalization** of **net operating income**,
+    and **discounted present value (`DCV`)** of projected future annual
+    **`NOI`**.
+- **Gross Rent Multiplier**
+  - **Annual rental income x gross rent multiplier = price** (or **value**). The
+    **gross rent multiplier** must be derived from the **`GRM`s** on **sales**
+    of **comparable properties**. This simple method is often used for valuing
+    **apartments**.
+- **Capitalization of `NOI`**
