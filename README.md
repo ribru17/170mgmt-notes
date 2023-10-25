@@ -375,7 +375,7 @@ low interest rate, and are reluctant to sell.
     properties**.
 - **Capitalization of Income**
   - **Gross rent multiplier**, **capitalization** of **net operating income**,
-    and **discounted present value (`DCV`)** of projected future annual
+    and **discounted present value (`DCF`)** of projected future annual
     **`NOI`**.
 - **Gross Rent Multiplier**
   - **Annual rental income x gross rent multiplier = price** (or **value**). The
@@ -383,3 +383,86 @@ low interest rate, and are reluctant to sell.
     of **comparable properties**. This simple method is often used for valuing
     **apartments**.
 - **Capitalization of `NOI`**
+  - $\text{Cap Rate} = \text{NOI} \div \text{Price}$, so $\text{NOI} \div
+    \text{Cap Rate} = \text{Price (or value)}$, and $\text{Cap Rate} \times
+    \text{Price} = \text{NOI}$. The **capitalization rate** (aka **cap rate**)
+    is derived from recent **sales** of **comparable properties** and is
+    affected by **market** conditions. Falling **interest rates** will tend to
+    lower **cap rates**, while rising **interest rates** will increase **cap
+    rates**. An increase in **demand** relative to **supply** in the local
+    **market** will lower **cap rates**, while an increase in **supply**
+    relative to **demand** will raise **cap rates**.
+- **Discounted Present Value (`DCF`)**
+  - A 10-year cash flow model is typically created. The **discount rate** used
+    (or required **internal rate of return**) is based on the buyer's assessment
+    of the **risk** of achieving the projected future **`NOI`** and the
+    projected future **sale price** relative to current alternative
+    **investments** and **capital market** benchmarks.
+- **Replacement Cost**
+  - The sum of **land value** and **depreciated replacement cost** of the
+    **improvements**. **Depreciation** of the **building** can come from
+    **physical depreciation**, **functional obsolescence**, and **external
+    obsolescence**. The **land value** is derived from a **comparable sales**
+    analysis of similar **land** parcels. The **replacement cost** approach is
+    more reliable when the **improvements** are relatively new.
+- **Land Value**
+  - A "**highest and best use**" analysis to determine the **value** of a
+    particular **land** site, whether the **land** is **vacant** or
+    **improved**. A particular **land** parcel might actually be worth more if
+    the existing **improvements** are demolished and removed.
+
+<!-- Lecture 8 -->
+
+## Investment Analysis and Taxation of Income Properties
+
+- **Investment Benefits**
+  - **Cash flow** (after **taxes**), **price appreciation**,
+    **diversification**.
+- **Real Estate Cycle**
+  - The **real estate** industry is **cyclical**, with periods of **growth** and
+    periods of **decline** in **rents**, **occupancy**, and **property values**.
+    The industry is very large and highly competitive, with many owners and
+    limited concentration of ownership.
+- **Investment Strategies**
+  - **Risk/return** focus (**core**, **value-added**, or **opportunistic**),
+    **property type** (e.g. **office**, **retail**, **apartments**, **hotels**),
+    and/or **geographical** focus.
+- **Market Analysis**
+  - **Supply/demand** analysis for **property type** and **local market**, and
+    local **absorption** projects to forecast future **occupancy rates** and
+    **rent levels**.
+- **Net Operating Income (`NOI`)**
+  - **Rent** and other **property income** minus **operating expenses**.
+    **`NOI`** is often **capitalized** to determine the **market value** of a
+    **property**.
+- **Leverage**
+  - The use of **debt** to acquire or own **property**.
+- **Loan to Value Ratio (`LTV`)**
+  - **Mortgage balance** divided by **property value** (or **price**).
+- **Debt Service Coverage Ratio (`DSCR`)**
+  - Annual **`NOI`** divided by **mortgage payments**. A higher **`DSCR`** shows
+    a greater ability for the **borrower** to make **mortgage payments**.
+- **Before Tax Cash Flow**
+  - **`NOI`** minus **debt service** and **capital expenditures** (cap ex).
+- **After Tax Cash Flow**
+  - **Before tax cash flow** minus **taxes**. The **government** is your partner
+    in every **investment** through its power to **tax** the annual **income**
+    and **capital gains** from **sale**. **Federal**, **state**, **local**, and
+    all other **taxes** must be considered.
+- **Taxable Income**
+  - **Net operating income** minus **interest** and **tax depreciation**.
+- **Tax Depreciation**
+  - The amount of the **purchase price** allocated to the **improvements**,
+    exclusive of the **land**, is the **depreciable cost basis** of the
+    **property**. The **depreciable cost basis** can be **amortized** as **tax
+    depreciation** over **27.5 years** for **residential income properties** and
+    **39 years** for **non-residential income properties**.
+- **Mortgage Interest Deduction**
+  - The **interest** portion of the monthly **P&I Payments** is fully **tax
+    deductible** for **investment properties**. Limited for primary and
+    secondary **homes** to the annual **interest** on a total of up to
+    **\$750,000 of mortgage debt**.
+- **Unleveraged Returns vs. Leveraged Returns**
+  - The `IRR`, ROE, and Equity Multiple due to mortgage financing. The leveraged
+    returns should generally be higher than the unleveraged returns to account
+    for the additional risk from the use of leverage.
