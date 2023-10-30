@@ -466,3 +466,64 @@ low interest rate, and are reluctant to sell.
   - The `IRR`, ROE, and Equity Multiple due to mortgage financing. The leveraged
     returns should generally be higher than the unleveraged returns to account
     for the additional risk from the use of leverage.
+
+<!-- Lecture 9 -->
+
+## Financial Leverage/Financing Alternatives
+
+- **Financial Leverage**
+  - Allows an **investor** to use less **equity** to acquire an **investment**,
+    potentially achieve a higher **leveraged return** on **equity**, and benefit
+    from the **tax deductibility** of a **mortgage interest**. **Investors** who
+    desire a higher **leveraged return** on **equity** might borrow at a higher
+    **`LTV`** ratio, but as the **`LTV`** increases, **risk** increases.
+- **Positive and Negative Leverage**
+  - **Positive leverage** is when the **return** on **equity** is **higher**
+    with **debt** than without, and **negative leverage** is when the **return**
+    on **equity** is **lower** with **debt** than without. With **positive
+    leverage**, the **higher** the **`LTV`** ratio, the **higher** will be the
+    **leveraged return** on **equity**. With **negative leverage**, the
+    **higher** the **`LTV`** ratio, the **lower** will be the **leveraged
+    return** on **equity**.
+- **Loan Underwriting**
+  - The **Loan-to-Value ratio (`LTV`)** and **debt service coverage ratio
+    (`DSCR`)** are two of the key elements of a **loan underwriting**. Although
+    the **maximum `LTV`** ratio and **minimum `DSCR`** levels vary with
+    **mortgage market** conditions, **lenders** are always more secure with a
+    lower **`LTV`** ratio and a higher **`DSCR`**.
+- **Prepayment Penalties, Yield Maintenance, Loan Lockouts**
+  - **Mortgage loan** terms that make it costly or impossible for a **borrower**
+    to **payoff** or **refinance** a **loan** before the contract **maturity
+    date**.
+- **Interest-Only Loan**
+  - **Borrower** pays only **interest** on the **loan**, with no **principal
+    amortization**, and a **balloon payment** due at **maturity**. Also called a
+    **"bullet loan"**.
+- **Negative Amortizing Loan**
+  - When the **payment rate** on a **loan** is less than the **accrual rate**
+    (i.e. **interest** amount then due), there will be **negative amortization**
+    and the **loan balance** will **increase**. Might be used when the
+    **interest rates** are very high.
+- **Participating Loan**
+  - The **lender** receives additional **interest**, based on a formula,
+    typically related to **gross income**, **`NOI`**, or **cash flow**, that is
+    called a **participation** or **"equity kicker"** but the **lender** does
+    not have any **ownership interest** in the **property**.
+- **Convertible Mortgage**
+  - When the **lender** has the right to **convert** part or all of the **loan
+    principal** to an **ownership interest** in the **property** at a specified
+    time.
+- **Mezzanine Loan**
+  - A **loan** that is often **secured** by the **owner's equity** in a
+    **property**, rather than by a **mortgage** on the **property** itself.
+    Usually requires an **inter-creditor agreement** between the **mezzanine
+    lender** and the **first mortgage lender**.
+- **Preferred Equity**
+  - An **investment** in the **ownership interest** of a **property**, that is
+    not a **mortgage**, with a **preferred return** that takes **priority** over
+    other **equity investors**.
+- **Sale-Leaseback**
+  - An alternate means of **monetizing** a **property** where the **seller**
+    retains **use** of the **property** for the duration of the **lease term**.
+    With a **repurchase option** on in the **lease**, the **seller** may
+    reacquire **ownership** of the **property** in the future.
