@@ -527,3 +527,6 @@ low interest rate, and are reluctant to sell.
     retains **use** of the **property** for the duration of the **lease term**.
     With a **repurchase option** on in the **lease**, the **seller** may
     reacquire **ownership** of the **property** in the future.
+
+<!-- Lecture 10 -->
+<!-- Nothing noteworthy. -->
