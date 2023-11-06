@@ -262,8 +262,9 @@ low interest rate, and are reluctant to sell.
 
 ## Mortgages: Additional Concepts
 
-- **Loan-to-Value Ratio (LTV)**
+- **Loan-to-Value Ratio (`LTV`)**
   - **Mortgage debt** divided by **property value** (or **price**).
+  - Lower `LTV` means less risk for borrowers _and_ lenders.
 - **Market Value of a Loan**
   - The **present value** of all expected future **loan payments** (i.e. all
     expected future payments of **principal** and **interest**).
@@ -530,3 +531,51 @@ low interest rate, and are reluctant to sell.
 
 <!-- Lecture 10 -->
 <!-- Nothing noteworthy. -->
+
+<!-- Midterm Notes -->
+
+- An adjustable rate mortgage loan with a teaser start rate of 1.5% for the
+  first loan year, an index of the 30-day `SOFR`, a margin of 2.0%, a periodic
+  annual interest rate increase cap of 2% and a lifetime interest rate cap of
+  8.5% with annual adjustments, would have a maximum interest rate of what for
+  the fourth loan year if the 30-day `SOFR` is 4.5% at that time?
+  - 6.5%
+    - 3 adjustment periods, periodic rate is 7.5% but index with margin is 6.5%
+- An adjustable rate mortgage loan with a teaser start rate of 1.0% for the
+  first loan year, an index of the eleventh District `COFI` rate, a margin of
+  2.0%, a periodic semi-annual interest rate increase cap of 1% and a lifetime
+  interest rate cap of 7.0% with semi-annual adjustments, would have a maximum
+  interest rate of what for the first half of the fourth loan year if the
+  eleventh District `COFI` rate is 6.0% at that time?
+  - 6.0%
+    - 5 adjustment periods, periodic rate is 6.0% and index with margin is 8.0%
+- Constant payment mortgage has:
+  - Constant monthly payments and a fixed interest rate.
+- There always will be negative amortization of a mortgage loan if the amount
+  paid by a borrower is:
+  - Less than the monthly accrued interest
+- If the loan to value ratio is 75%, the stated annual interest rate is 5%, the
+  loan term is 30 years fully amortizing, and the down payment is \$600,000,
+  what is the purchase price of the property?
+  - \$2.4 million
+- **FOR LOANS:** A point is just a percent.
+- For a retail property:
+  - Cost is \$4,000,000
+  - Gross rent and other income: \$400,000
+  - Operating expenses: \$100,000
+  - Annual tax depreciation: \$120,000
+  - Assumable interest-only mortgage: \$2,000,000 at 5% per year
+  - **Acquisition Cap Rate:** 7.5%
+  - **Before-tax Cash Flow:** \$200,000 (due to mortgage payments)
+  - **Taxable Income:** \$80,000
+- CPI, percent rent, and triple net clauses can all increase base rent amount
+- What is the `DSCR` for a \$2.5 million property generating a 7.5% before tax
+  annual return on equity with a \$1.5 million ten-year interest-only first
+  mortgage loan at a 5% annual interest rate?
+  - 2.0
+    - \$75,000 annual interest-only payment
+    - \$75,000 annual profit on the \$1,000,000 equity
+      - Means that there was \$150,000 net operating income (`NOI`)
+- A lender’s policy of title insurance insures:
+  - That any insured title claim against the property will be covered up to the
+    loan amount
