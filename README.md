@@ -61,8 +61,8 @@ low interest rate, and are reluctant to sell.
   - A three-party **security interest** in **real property** that is given by a
     **borrower / trustor** to an independent **trustee** to secure the repayment
     of a **real estate loan** for the benefit of a **lender / beneficiary**.
-    Used in California and mos other states where it is available, because it is
-    preferred over a two-party **mortgage**.
+    Used in California and most other states where it is available, because it
+    is preferred over a two-party **mortgage**.
 - **Senior vs. Junior Mortgage**:
   - Determined by state **recording** statues that determine lender **priority**
     (unless the prior recorded mortgage contains a **subordination clause**).
@@ -579,3 +579,56 @@ low interest rate, and are reluctant to sell.
 - A lender’s policy of title insurance insures:
   - That any insured title claim against the property will be covered up to the
     loan amount
+
+<!-- Lecture 11 -->
+
+## Disposition / Renovation of Income Properties
+
+- **Exit Strategies**
+  - To realize the increased **equity** value created from an appreciated
+    **property**, an owner may **sell**, **exchange**, or **refinance** the
+    **property**.
+- **Hold/Sell Analysis**
+  - Analyze the **marginal rate of return** from **holding** the **property**
+    for an additional period of **time** as compared to **selling** the
+    **property** currently.
+- **Property Sale**
+  - **Sell** for **cash** and **pay off** all outstanding **debt** and pay all
+    federal, state, and local **taxes** on any **capital gain**. See **IRS Form
+    1040 and Schedule D**.
+- **Installment Sale**
+  - **Sell** on an **installment sale** receiving the **sale price** over
+    **time** and paying a proportional amount of the **capital gain tax** with
+    each **installment** received. The amount of **installment sale income** to
+    be reported each year upon which **tax** must be paid is a function of the
+    **ratio** between the **"gross profit"** on the **sale** (i.e. **sale price
+    minus adjusted tax basis**) divided by the **"contract price"** as defined
+    in **IRS Form 6252**. An **installment sale** is a form of **seller
+    financing**.
+- **Section 1031 Exchange**
+  - **Trade** the **property** for **"like kind" property** in a **US Internal
+    Revenue Code Section 1031** exchange transaction to **defer** the **taxes**
+    on any **capital gain** but with the **exchange property** receiving a
+    **substituted tax basis**. **Section 1031** requires that the **exchange
+    property** be **identified** within **45 days** of the **prior sale**
+    closing date, and the **exchange property** must be **acquired** within
+    **180 days** of the **prior sale** closing date. **"Unlike" property**
+    received in a **section 1031** transaction is called **"boot"** and is
+    subject to **capital gain taxes** on the **sale**. **"Boot"** includes
+    **cash**, **personal property**, and any **"unlike" real property** received
+    in the transaction. See **IRS Form 8824**.
+- **Refinancing**
+  - Replacing an existing **loan** with a new **loan**. If you **refinance**
+    with a larger **loan**, you will not pay any **tax** on the additional
+    **loan proceeds** received in connection with the **refinancing**. If
+    **interest rates** have fallen, it might be possible to **refinance** with a
+    larger **loan** while reducing the annual **borrowing cost**, but
+    **points**, **appraisal fees**, and other **loan costs** must be considered.
+- **Renovation**
+  - As an alternative to a **sale**, a **1031 exchange**, or a **refinancing**,
+    the **property** may be held and **renovated** to increase **rents**,
+    increase **occupancy**, and/or reduce **operating costs**, all of which
+    should increase the **net operating income** and thereby increase the
+    **property value**. But in addition to the estimated **renovation costs**,
+    the **time**, **effort**, and **opportunity costs** related to the
+    **renovation** must also be carefully considered.
