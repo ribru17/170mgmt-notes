@@ -122,12 +122,12 @@ low interest rate, and are reluctant to sell.
     - $\text{Present Value (PV)} = \frac{\text{Future Value}}{(1+i)^{n}}$
 - **Annuities (PMT)**
   - **Investments** with constant future **periodic payments**.
-- **Interest Rate (i), Effective Yield, Internal Rate of Return (IRR)**
+- **Interest Rate (i), Effective Yield, Internal Rate of Return (`IRR`)**
   - Various measures of the return on capital or the cost of capital.
-- **Net Present Value (NPV)**
+- **Net Present Value (`NPV`)**
   - The **present value** of all **projected future cash flows** discounted at a
     specific **discount rate**, less the cost of the **investment**.
-- **Internal Rate of Return (IRR)**
+- **Internal Rate of Return (`IRR`)**
   - The calculated **discount rate** at which the **present value** of all
     **projected future cash flows** is equal to the cost of the **investment**.
 - **Risk**
@@ -204,9 +204,9 @@ low interest rate, and are reluctant to sell.
   - **Indexed** to other market **interest rates** (plus a **margin**).
 - **Index**
   - **SOFT** (Secured Overnight Financing Rate) is replacing **LIBOR** (London
-    Interbank Offered Rate), **US Treasuries**, **COFI** (eleventh district Cost
-    of Funds Index), **Prime**. The **index** can be overnight, six months, one
-    year, or another interest rate series.
+    Interbank Offered Rate), **US Treasuries**, **`COFI`** (eleventh district
+    Cost of Funds Index), **Prime**. The **index** can be overnight, six months,
+    one year, or another interest rate series.
 - **Margin**
   - **Lender's profit margin** or spread (fixed for the loan term) over the
     index.
@@ -228,8 +228,8 @@ low interest rate, and are reluctant to sell.
     **costs** may be charged to the **borrower** to increase the **effective
     yield** to the **lender**.
 - **Interest Only or Amortizing**
-  - As with **fixed rate loans**, **ARMs** are usually **fully amortizing**, but
-    can also be written as **interest only** or **partially amortizing**.
+  - As with **fixed rate loans**, **`ARM`s** are usually **fully amortizing**,
+    but can also be written as **interest only** or **partially amortizing**.
 - **Negative Amortization**
   - If the **loan payment** required is less than the amount of **accrued
     interest** then due on the **loan** because of a **payment cap**, there will
@@ -251,7 +251,7 @@ low interest rate, and are reluctant to sell.
   - Because the **interest rate** adjusts **periodically**, the potential for
     future **rate** increases elevates the **risk** of a **default** by the
     **borrower** leading to **foreclosure**.
-- **Hybrid ARMs**
+- **Hybrid `ARM`s**
   - **3/1**, **5/1**, **7/1**, or **10/1** are **fixed rate loans** for the
     first 3, 5, 7, or 10 years, then become **adjustable rate loans** with
     annual **interest rate reset dates**.
@@ -632,3 +632,71 @@ low interest rate, and are reluctant to sell.
     **property value**. But in addition to the estimated **renovation costs**,
     the **time**, **effort**, and **opportunity costs** related to the
     **renovation** must also be carefully considered.
+
+<!-- Lecture 13 -->
+
+## Financing Project Development
+
+- **Project Development**
+  - **Acquiring** a **land site**; **financing** and **construction** of a
+    **building** (**office**, **apartments**, **shopping center**,
+    **warehouse**, **hotel**, **self storage**, etc.); **leasing** and
+    **managing** the **property**; then **selling**, **exchanging**, or
+    **refinancing**.
+- **Mixed-Use Development**
+  - A **combination** of **real estate** uses in a single **project**.
+- **Development Decision Factors**
+  - Global, national, and local **economic forecast**; **supply** and **demand**
+    for space (i.e. **tenant** demand); **competition** from other **current**
+    and **planned developments**; **capital markets** (i.e. **financing cost**
+    and availability).
+- **Project Feasibility**
+  - A **feasibility study** should be done to forecast **tenant demand**, **rent
+    levels**, **construction costs**, **project timing**, **exit strategies**,
+    and future **sales price**, and evaluate the **risks**. Location is always a
+    key factor in the analysis.
+- **Construction Financing**
+  - Covers the **hard costs** and **soft costs** of **construction**.
+    **Construction loans** are disbursed in **draws** after **costs** are
+    incurred, are typically **recourse** to the **developer**, are usually
+    **short term** (maturing after **construction** is expected to be
+    completed), and **floating rate** with **construction interest capitalized**
+    into the outstanding **loan balance**. **Construction lenders** want a
+    **permanent lender** (**"take-out" lender**) in place to pay off and replace
+    the **construction loan** when **construction** is completed and various
+    **leasing** targets have been achieved. A **stand-by lender** is a
+    **permanent lender** who doesn't intend to actually fund their loan.
+- **Project Development Issues**
+  - Building:
+    - Footprint
+    - Envelope
+    - Façade
+    - Stacking plan
+  - Traffic mitigation plan
+  - Property taxes
+  - Permitting:
+    - Zoning codes
+    - Building codes
+- **Permitting**
+  - The process of obtaining local **government approvals** (e.g. city planning,
+    city council) to **permit** the proposed **development**. The **project**
+    must comply with local **zoning codes** and **building codes** (or obtain a
+    **variance**) for a **building permit** to be issued. The **permitting**
+    process involves **negotiation** with city planners and their staff.
+- **Zoning Codes**
+  - **Allowable uses**, **maximum floor area ratio (FAR)**, **height
+    restrictions**, **minimum lot size**, **minimum parking ratios**, **building
+    setbacks**, etc. **Zoning codes** specify what may be **permitted** to be
+    built as of right (e.g. **R-1**, **R-2**, **R-3**, **R-4**, **R-5**,
+    **C-1**, **C-2**, **C-3**, **M-1**, **M-2**, **M-3**, **A-1**, **A-2**, ...)
+    and may include incentive zoning, inclusionary zoning, and/or cumulative
+    zoning.
+- **Building Codes**
+  - Specify the **materials** and approved **methods** for **construction**.
+    City staff must approve the **architectural** and **engineering designs**
+    and **specifications** for the **project**, including the **site plan**,
+    **elevations**, and **project renderings**. **Code compliance** is enforced
+    by city inspectors during **construction** before a **certificate of
+    occupancy** (**"C of O"**) will be issued by the local authority after
+    **project completion** in compliance with all **building codes** and
+    **zoning codes**.
