@@ -633,6 +633,62 @@ low interest rate, and are reluctant to sell.
     the **time**, **effort**, and **opportunity costs** related to the
     **renovation** must also be carefully considered.
 
+<!-- Lecture 12 -->
+
+## Financing Corporate Real Estate
+
+- **Lease vs. Own Analysis**
+  - Decision factors include: **space** needed (relative to the size of the
+    **property**), **time** needed (**short term** or **long term**), **risk**
+    from **property ownership**, **control** and **management** of the
+    **property**, **maintenance** and **special purpose buildings**, **tax**
+    considerations from **depreciation**, impact on the **financial statements**
+    (**balance sheet** and **income statement**), access to and **cost of
+    capital**.
+- **Residual Value**
+  - A **property's** projected future **residual value** (aka **"exit value"**)
+    may not be an important part of a company's **purchase decision**. Instead
+    of acquiring a **property** that it needs to run its business, a company
+    could negotiate a **lease** with an **"equity kicker"** or a **purchase
+    option** that might provide future value.
+- **Corporate Real Estate Financing**
+  - The **acquisition** of **property** for **company** use can be **financed**
+    with either **mortgage debt** or unsecured **corporate borrowing**.
+    **Mortgage debt** will generally be preferred if it is cheaper than the
+    company's unsecured **borrowing cost**.
+- **"Capital" Lease**
+  - Previously, if a **lease term** exceeded 75% of an **asset's** remaining
+    economic life, or if the **present value** of future **lease payments** was
+    the majority of the **property's `FMV`** at **lease commencement** (90%+),
+    or if **property ownership** was likely to be **transferred** to the
+    **lessee** upon **lease expiration** (e.g. a **purchase option**
+    substantially below **`FMV`**), then the **lease** was treated as a
+    **"capital" lease** and was reported for accounting purposes as if part of
+    the **asset** was **owned** by the **lessee**.
+- **"Finance" vs. "Operating" Lease**
+  - Under `ASC 842` of the `FASB` (effective 1-1-22 for private companies), the
+    **present value** of all **lease payments** for **leases** over **one year**
+    must be **capitalized** and reported on the **balance sheet** as a
+    **right-of-use asset** and a **lease liability**, and **lease payments**
+    will be reported as an **expense** on the **income statement**. If the
+    **lease term** is one year or less, **lease payments** will be only reported
+    on the company's **income statement** and not on the **balance sheet**.
+- **Sale-Leaseback**
+  - A company might **sell** a **property** it owns and simultaneously **lease**
+    it back on a **long-term** basis to obtain **cash** while retaining **use**
+    of the **property**. The company might negotiate a **repurchase option**
+    into the **lease** to give it the possibility to re-acquire that
+    **property** in the future. (**Selling** a **property** and **leasing** it
+    back in a **sale-leaseback** transaction, with the **lease** written so that
+    it would be reported as an **operating lease**, used to be a form of **off
+    balance sheet financing** for the company.)
+- **"Hidden" Corporate Real Estate Value**
+  - Companies are required to report **property values** at the **lower** of
+    **depreciated cost** or **market value**. This can lead a publicly traded
+    company to become an **acquisition target** when the **market value** of its
+    **properties** substantially **exceeds** the reported depreciated **book
+    value**.
+
 <!-- Lecture 13 -->
 
 ## Financing Project Development
