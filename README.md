@@ -804,3 +804,68 @@ low interest rate, and are reluctant to sell.
 - **Off-site Improvements**
   - Public roads, street lighting, traffic lights, sewer line extensions, parks
     and schools, etc.
+
+<!-- Lecture 15 -->
+
+## Structuring Real Estate Investments
+
+- **Organizational Forms**
+  - To **minimize taxes**, **limit liability**, and define **management** roles
+    and responsibilities in **investments**. **Partnerships**, **limited
+    liability companies** (**LLCs**), and **real estate investment trusts**
+    (**`REIT`s**), are the primary **legal entities** used for structuring the
+    **acquisition** and **ownership** of **real estate investments**.
+- **Pass-Through Entities**
+  - **Pass-through entities** do not pay **taxes** directly but instead pass on
+    their **taxable income** or **loss** to the **partners**, **members**, or
+    **shareholders** in those **entities** who must report their allocable share
+    of the **taxable income** or **loss**.
+- **Partnerships**
+  - Can be either a **general partnership** or a **limited partnership**. All
+    **partnerships** are **pass-through entities** for **tax** purposes and have
+    a **finite life**. **Title** to **property** owned by a **partnership** will
+    be in the name of the **partnership**. In a **general partnership**, each
+    **general partner (GP)** has **decision-making authority** and **unlimited
+    liability**. A **limited partnership** must have at least one **general
+    partner**, who will have **decision-making authority** and **unlimited
+    liability**, and any number of **limited partners (LPs)**, with no
+    **decision-making authority** and whose **liability** is generally
+    **limited** to the amount of their **investment**. **Partnership interests**
+    are **personal property** and so are not eligible for a **Section 1031
+    Exchange**. A **partnership agreement** governs the rights and
+    responsibilities of the **partners**.
+- **Limited Liability Company (LLC)**
+  - In 1988, the IRS approved the **limited liability company** structure. In
+    1994, California became toe forty-sixth state to enact an **LLC** law. **LLC
+    investors** are called **members**, and all **members** have **limited
+    liability**. In California, only one **member** is needed to form an
+    **LLC**, and **LLCs** have **unlimited life**. **LLCs** are managed by a
+    **managing member** or a third party, can elect **pass-through** status for
+    **tax** purposes, and are governed by an **operating agreement**.
+  - Invented by Wyoming, then the legislature to allow LLCs spread like wildfire
+    through all other states
+  - California eventually created the holy grail of entities, allowing LLCs to
+    be created solo (without even a partner)
+- **Limited Liability Partnership (`LLP`)**
+  - In California, only professional organizations can be **`LLP`s** (law firms,
+    etc.), so an **`LLP`** cannot be used for **real estate investments**.
+- **Corporations**
+  - **Legal entities** owned by **shareholders** (individuals or other legal
+    entities), managed by a **board of directors** in accordance with their
+    **articles of incorporation** and **bylaws**, and have **unlimited life**.
+    **Dual taxation** (**corporate** and **shareholder** levels) makes **"C"
+    corporations** unattractive for **property investments**. **"S"
+    corporations** have **shareholder** restrictions but can elect
+    **pass-through** status.
+- **Joint Venture**
+  - In the U.S., not a **legal entity** but rather an **agreement** between at
+    least two parties to pursue a specific investment objective. **Joint
+    ventures** will typically involve a **partnership**, **limited liability
+    company**, **corporation**, or other **legal entity**.
+- **Syndication**
+  - Not a **legal entity** but a means of **financing investments** by offering
+    **limited partnership** or **LLC member interest** in proposed or existing
+    **project**.
+- **Capital Amount**
+  - **Accounting** of an **investor's share** in the **net worth** of an
+    **entity**.
