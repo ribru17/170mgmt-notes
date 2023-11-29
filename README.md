@@ -869,3 +869,63 @@ low interest rate, and are reluctant to sell.
 - **Capital Amount**
   - **Accounting** of an **investor's share** in the **net worth** of an
     **entity**.
+
+<!-- Lecture 16 -->
+
+## The Secondary Mortgage Market
+
+- **Fannie Mae and Freddie Mac**
+  - The **Federal National Mortgage Association** ("**Fannie Mae**", created in
+    1938 and privatized in 1968) and the **Federal Home Loan Mortgage
+    Corporation** ("**Freddie Mac**", created by the Emergency Home Finance Act
+    of 1970) are the largest buyers of **home loans** in the United States.
+    Together, they buy almost half of all residential home loans. **Fannie Mae**
+    and **Freddie Mac** are huge, NYSE listed companies with \$8 trillion of
+    mortgage loans and securities. During the global financial crisis of
+    2007-2009, **Fannie Mae** and **Freddie Mac** nearly went bankrupt and were
+    placed under the conservatorship of **Federal Housing Finance Agency**
+    ("**`FHFA`**", created by the Housing and Economic Recovery Act of 2008).
+- **Ginnie Mae**
+  - **Government National Mortgage Association** ("**Ginnie Mae**", created by
+    the HUD Act of 1968) is a wholly owned US government corporation within the
+    **Department of Housing and Urban Development (HUD)**. **Ginnie Mae**
+    guarantees **Mortgage Backed Securities**.
+- **Conforming Loans**
+  - **Mortgage loans** that **conform** to **Fannie Mae** and **Freddie Mac
+    underwriting guidelines** for **loan size** (for 2023: \$766,550 and
+    \$1,149,825 in high cost counties (1.5 times)), **creditworthiness**
+    (**`FICO`** score), **`DSCR`**, **`LTV`**, and other criteria.
+- **Non-Conforming Loans**
+  - **Mortgage loans** that **do not conform** to all the **underwriting
+    guidelines** of **Fannie Mae** and **Freddie Mac** at a particular time.
+- **Subprime Loans**
+  - **Mortgage loans** that fall below the **underwriting guidelines** for
+    **creditworthiness** (**`FICO`** score), **`DSCR`**, and/or **`LTV`**. Not
+    related to **loan size**.
+- **Seasoned Mortgages**
+  - **Mortgage loans** that have been paying monthly **principal** and
+    **interest** on time. The longer the payments stay current, the more
+    "**seasoned**" the **mortgage**.
+- **Residential Mortgage Backed Securities ("`RMBS`") and Commercial Mortgage
+  Backed Securities ("`CMBS`")**
+  - Created when pools of **residential** or **commercial mortgage loans** are
+    **tranched** into **securities** for sale to other **investors** in the
+    **capital markets**. The primary **risks** associated with these
+    **securities** are **default risk** and **prepayment risk**.
+- **Default Risk**
+  - When the **default rate** on the pool of **mortgage loans** underlying the
+    **mortgage backed securities** is higher than was projected at the time of
+    the `MBS` offering.
+- **Prepayment Risk**
+  - When the **prepayment rate** on the pool of **mortgage loans** underlying
+    the **mortgage backed securities** is higher than was projected at the time
+    of the `MBS` offering.
+- **Collateralized Mortgage Obligations ("`CMO`s")**
+  - **Debt securities** that are issued using a pool of **mortgage loans** as
+    **collateral**, where the **issuer** retains **ownership** of the **loans**.
+- **Collateralized Debt Obligations ("`CDO`s")**
+  - Any **debt** can be **collateral** for the **securities**.
+- **Principal Only Tranches ("`PO`s"), Interest Only Tranches ("`IO`s"),
+  Floaters, and Inverse Floaters**
+  - Some of the unique **securities** that can be created to appeal to different
+    **investors**.
