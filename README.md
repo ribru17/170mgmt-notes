@@ -998,3 +998,5 @@ low interest rate, and are reluctant to sell.
        (**leasing** or **property management**)
     5. **Financial engineering** (**property debt** or **REIT corporate
        leverage**)
+- **{MISC}**
+  - Apartments appreciate at 27.5 years, all other properties at 39 years
