@@ -1000,3 +1000,59 @@ low interest rate, and are reluctant to sell.
        leverage**)
 - **{MISC}**
   - Apartments appreciate at 27.5 years, all other properties at 39 years
+
+<!-- Lecture 18 -->
+
+## Real Estate Investment Performance and Portfolio Considerations
+
+- **Risk vs. Return**
+  - **Investments** with more **risk** (i.e. more **volatility** of **returns**)
+    should provide a higher **expected** (i.e. mean) **return**. $\beta$
+    (**beta**) is a measure of the **volatility** of **returns** for an
+    **investment** relative to a benchmark, and $\alpha$ (alpha) is a measure of
+    the **actual return** of an **investment** relative to the benchmark given
+    the level of **investment risk**.
+- **Property Performance Information**
+  - Unlike stocks and bonds, **real estate performance** information is much
+    less available. The **National Council of Real Estate Investment
+    Fiduciaries** (**`NCREIF`**) produces quarterly returns for five **property
+    types** (**office**, **retail**, **apartments**, **industrial**, and
+    **hotels**), but values are based on **appraisals** giving imperfect
+    **market value** information, and the **`NCREIF` index** is an **unleveraged
+    index**. **REIT stock price** performance information is a proxy for certain
+    types of **real estate performance**, but **REIT stock prices** are also
+    affected by non-real estate related stock market movements.
+- **Business Risk**
+  - Specific to the property type, location, and market conditions.
+- **Default Risk**
+  - **Properties** are usually **leveraged**. Higher **`LTV`s** cause higher
+    **default risk**.
+- **Liquidity Risk**
+  - **Selling** a **property** takes time. **Real estate** is an **illiquid
+    investment**.
+- **Diversification**
+  - A way to lower the **volatility** of a **portfolio's expected returns**.
+- **Correlation Coefficient**
+  - Measures the relative movement of one set of numbers as compared with
+    another, ranging from **+1 (perfectly positively correlated)**, to **0 (no
+    correlation at all)**, to **-1 (perfectly negatively correlated)**.
+- **Inflation Hedge**
+  - **Real estate** is considered a good **inflation hedge** as it is
+    **positively correlated** with **inflation** (when **inflation** increases,
+    **property values** also tend to increase).
+- **Portfolio Diversification**
+  - Buying **properties** in different **geographic regions** and of different
+    **property types** will generally provide greater **portfolio
+    diversification**.
+- **Global Diversification**
+  - The increasing number and variety of **investment opportunities** around the
+    world provide **diversification** benefits from low or negative
+    **correlations** with investments in the United States (or your home
+    country) that might reduce **portfolio risk**, but **foreign investments**
+    may have additional **risks** that must be managed.
+- **Foreign Investment Risks**
+  1. Information risk
+  2. Legal, tax, and property rights risks
+  3. Currency and interest rate risk
+  4. Political risk
+  5. Culture/communication risk
