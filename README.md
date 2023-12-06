@@ -1056,3 +1056,5 @@ low interest rate, and are reluctant to sell.
   3. Currency and interest rate risk
   4. Political risk
   5. Culture/communication risk
+- **MISC**
+  - Long term, relative performance is better. Short term, absolute is better.
