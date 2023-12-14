@@ -1049,7 +1049,7 @@ low interest rate, and are reluctant to sell.
     world provide **diversification** benefits from low or negative
     **correlations** with investments in the United States (or your home
     country) that might reduce **portfolio risk**, but **foreign investments**
-    may have additional **risks** that must be managed.
+    all have additional **risks** that must be managed.
 - **Foreign Investment Risks**
   1. Information risk
   2. Legal, tax, and property rights risks
@@ -1058,3 +1058,13 @@ low interest rate, and are reluctant to sell.
   5. Culture/communication risk
 - **MISC**
   - Long term, relative performance is better. Short term, absolute is better.
+
+## Final Exam Notes
+
+- Appreciation of an asset by a percentage **only** affects the equity, it will
+  not appreciate to cause larger interest due. E.g. a 75% LTV property with a
+  50% appreciation gives all appreciation \$ to equity, original borrowed amount
+  is always unchanged (duh)
+- For **tenant** expenses, do total expenses `PSF` - expense stop `PSF`
+  - The other expense stop amount is paid by the owner
+- General warranty deed gives the property buy the strongest title protection
